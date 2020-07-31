@@ -10,6 +10,12 @@ article, aside, footer, header, main, nav, section {
   margin: 0;
 }
 
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
 li a {
   display: inline;
 }
@@ -18,10 +24,4 @@ li a {
   background-color: #11233b;
   color: white;
   padding: 10px 20px;
-}
-
-.navi {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
 }
