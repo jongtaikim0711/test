@@ -12,8 +12,8 @@ article, aside, footer, header, main, nav, section {
 
 ul {
   list-style-type: none;
-  margin: 0;
-  padding: 0;
+  margin: 2;
+  padding: 5;
 }
 
 li {
